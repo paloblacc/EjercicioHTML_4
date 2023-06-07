@@ -1,0 +1,9 @@
+#elemento1{
+    color: red;
+}
+#supermercado1{
+    color: red;
+}
+#elemento1, #supermercado{
+    font-size: 2rem;
+}
