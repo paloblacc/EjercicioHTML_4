@@ -1,9 +1,6 @@
 #elemento1{
     color: red;
 }
-#supermercado1{
-    color: red;
-}
-#elemento1, #supermercado{
+ul li#elemento1{
     font-size: 2rem;
 }
